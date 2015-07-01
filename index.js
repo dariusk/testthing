@@ -1,5 +1,5 @@
 // hi here is a thing
 
-by: Darious Kazemi
+by: Darius Kazemi
 
 var foo = 'bar';

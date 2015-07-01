@@ -1,3 +1,5 @@
-hi here is a thing
+// hi here is a thing
 
 by: Darious Kazemi
+
+var foo = 'bar';
